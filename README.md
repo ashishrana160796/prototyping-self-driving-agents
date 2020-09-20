@@ -9,7 +9,8 @@ In this liveProject we explore the tools, techniques and methodologies used by A
 <p align="center">
   <img src="milestone-one/result-outputs-gifs/gif-output-value-function-approximation.gif" width="250" />
   <img src="milestone-one/gif-outputs/reward-threshold-0.2.gif" width="250" /> 
-  <img src="milestone-one/gif-outputs/reward-threshold-0.22.gif" width="250" />
+  <img src="milestone-one/gif-outputs/reward-threshold-0.22.gif" width="250" />  
+    
   <b>Figure 1:</b> Value Function Approximation with Q-table <em>(Left)</em>, Reward Shaping optimization and analysis <em>(Middle, Right)</em>.
 </p>
 
@@ -23,8 +24,9 @@ In this liveProject we explore the tools, techniques and methodologies used by A
 <p align="center">
   <img src="deliverables/assets/deliverable-two-gifs/deliverable-two-ddpg-output.gif" width="250" />
   <img src="deliverables/assets/deliverable-two-gifs/deliverable-two-td3-output.gif" width="250" /> 
-  <img src="deliverables/assets/deliverable-two-gifs/deliverable-two-sac-output.gif" width="250" />
-  <b>Figure 2:</b> Outputs of trained agents for parking tasks for DDPG <em>(Left)</em>, TD3 <em>(Middle)</em> and SAC <em>(Right)</em> actor critic approaches. Three different outcome stages are shown namely failure, partial success and complete goal completion   sequentially.
+  <img src="deliverables/assets/deliverable-two-gifs/deliverable-two-sac-output.gif" width="250" />  
+  
+  <b>Figure 2:</b> Outputs of trained agents for parking tasks for DDPG <em>(Left)</em>, TD3 <em>(Middle)</em> and SAC <em>(Right)</em> actor critic approaches. Three different outcome stages are shown namely failure, partial success and complete goal completion sequentially.
 </p>
 
 * __Milestone 2:__ Improving the agents performance with TD learning and starting agent prototyping with `highway-env` package.
@@ -35,7 +37,8 @@ In this liveProject we explore the tools, techniques and methodologies used by A
 <p align="center">
   <img src="deliverables/assets/deliverable-three-gifs/mcts-agent.gif" width="250" />
   <img src="deliverables/assets/deliverable-three-gifs/mcts-gape-agent.gif" width="250" /> 
-  <img src="deliverables/assets/deliverable-three-gifs/mcts-opd-agent.gif" width="250" />
+  <img src="deliverables/assets/deliverable-three-gifs/mcts-opd-agent.gif" width="250" />  
+  
   <b>Figure 3:</b> Outputs of trained MCTS agents with same parameters for Vanilla MCTS <em>(Left)</em>, GAPE MCTS <em>(Middle)</em> and OPD MCTS <em>(Right)</em> under evaluation.
 </p>
 
