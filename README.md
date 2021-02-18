@@ -48,6 +48,8 @@ In this liveProject we explore the tools, techniques and methodologies used by A
   * __Deliverable 3:__ Creating a MCTS learning and evaluation functional structure to evaluate the agent performance for different environments present in `highway-env` package.
     * The current generic implementation doesn't work optimally for these different environments in `highway-env` package. You can skip the optimization and performance analysis part.
 
+### Certification Test
+
 * __Certification Test:__ Final certification test task and questions to test the understanding developed by the learner while working with `rl-agents` package.
 
 <p align="center">
@@ -58,6 +60,18 @@ In this liveProject we explore the tools, techniques and methodologies used by A
 <p align="center"><b>Figure 3:</b> Outputs of trained MCTS agents with same parameters that are under evaluation in certification test.</p>
 
 By working on these different implementation and prototyping tasks we learn upon the importance of relatively different paradigms in reinforcement learning which might not be exactly part of current state of the art methodologies but still relevant in many relatively simpler scenarios. We also learn about documenting, comparing and designing experiments for evaluation of agent performance in quantitative and qualitative terms which is again very important in the domain of RL research.  
+
+### Deep Reviews
+
+This is a supplementary section that covers additional topics with reference to this liveProject. These topics don't necessarily help you in achieving any milestone but instead helps in increasing your functional understanding of different underlying components that are presented in this project. In your wholesome pursuit of knowledge you can refer to these additional implementations for reference.
+
+* __Building Custom Environments__ In this notebook we create a sample environment for _highway-env_ package and use the _rl-agent_ package to create a baseline agent corresponding to that environment.
+
+<p align="center">
+  <img src="deep-reviews/assets/mcts-agent.gif" width="250" />
+  <img src="deep-reviews/assets/deterministic-agent.gif" width="250" />
+</p>
+<p align="center"><b>Figure 4:</b> U-Turn environment baseline agents namely MCTS Agent <i>(Left)</i> and Deterministic Agent <i>(Right)</i>.</p>
 
 ## Acknowledgements
 
