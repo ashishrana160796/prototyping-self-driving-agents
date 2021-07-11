@@ -1,4 +1,7 @@
-## liveProject: Reinforcement Learning for self driving vehicles
+<p align="center"><img src="assets/liveProject-banner.jpeg" width="330" /></p>
+<p align="center" ><b>liveProject: Reinforcement Learning for self driving vehicles</b></p>
+
+## ![Click & Practice](https://www.manning.com/liveproject/reinforcement-learning-for-self-driving-vehicles?utm_source=ashishrana&utm_medium=affiliate&utm_campaign=liveproject_rana_reinforcement_7_6_21&a_aid=ashishrana&a_bid=8f38c809): Build & Research solutions for autonomous driving agents
 
 This github repository contains implementations of _liveProject: Reinforcement Learning for self-driving vehicles_ for reference purposes. This repository includes two different types of implementations. First, containing agent implementations from scratch and second approach uses `stable-baselines` or `rl-agents` like packages to directly import algorithms for fast prototyping to evaluate the performance of the models.
 
@@ -95,3 +98,4 @@ This is a supplementary section that covers an additional topic of making a cust
 * Thank you to ![@Edouard Leurent](https://github.com/eleurent) for providing and maintaining the ![`highway-env`](https://github.com/eleurent/highway-env) and ![`rl-agent`](https://github.com/eleurent/rl-agents) packages.
 * Thanks to ![`stable-baselines`](https://github.com/DLR-RM/stable-baselines3) team and  ![@Ashley Hill ](https://github.com/hill-a) for providing efficient and well documented implementations of RL algorithms in a single ![package](https://github.com/DLR-RM/stable-baselines3).
 * Also, thanks to ![@Ashok Tankala](https://github.com/tankala) for an interesting implementation use-case of reward shaping.
+* Great improvement suggestions were provided by ![Justin Francis](https://github.com/wagonhelm), ![Guillaume Alleon](https://github.com/galleon) & ![Byron Galbraith](https://github.com/bgalbraith). It's because of them this project has reached its current stage. Thank you for all the support & help!
